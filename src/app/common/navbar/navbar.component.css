@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #4B5320;
+    /* Olive Green */
+}
+
+.navbar-brand,
+.nav-link {
+    color: #F4EBD0 !important;
+    /* Light Sand */
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #A57F5A !important;
+    /* Earthy Brown */
+}
+
+.btn-custom {
+    background-color: #C19A6B;
+    /* Warm Beige */
+    color: #FFF;
+}
+
+.btn-custom:hover {
+    background-color: #A57F5A;
+    /* Darker Beige on hover */
+}
